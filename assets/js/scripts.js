@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 $(window).scroll(function(){
     var top = $(window).scrollTop();
-    if((top > 400 && $('body').hasClass('homepage')) || (top > 200 && !$('body').hasClass('homepage'))){
+    if((top > 400 && $('body').hasClass('homepage')) || (top > 150 && !$('body').hasClass('homepage'))){
         $('.navbar-default').css('background-color','rgba(44, 62, 80, 0.80)');
         $(".logo").stop().animate({
             height: "100px"

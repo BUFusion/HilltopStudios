@@ -65,7 +65,7 @@
                       <li><a>About Us</a></li>
                       <li><a>Studio</a></li>
                       <li><a>Contact</a></li>
-                      <?php if(!$home){?><li><a class="btn btn-primary">Book Us</a></li><? }?>
+                      <li><a class="btn btn-primary">Book Us</a></li>
                   </ul>
               </div>
           </div>
