@@ -46,14 +46,14 @@ p{
 }
 
 .top-wrap .container{
-    position: absolute;
-    bottom: -51px;
+  position: absolute;
+  bottom: -51px;
 }
 
 .top-wrap .container h1{
-    color:#fff;
-    font-weight:bold;
-    font-size:60px;
+  color:#fff;
+  font-weight:bold;
+	font-size: 60px;
 }
 
 .pcontain{
@@ -91,12 +91,6 @@ p{
 .logo{
     height: 200px;
     margin-top: -40px;
-}
-
-.bottom-align-text {
-    position: absolute;
-    bottom: 0;
-    right: 0;
 }
 
 header{
