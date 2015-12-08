@@ -45,7 +45,7 @@ p{
 	width: 100%;
 }
 
-.top-wrap .container{
+.top-wrap .container .row{
   position: absolute;
   bottom: -51px;
 }
@@ -67,6 +67,7 @@ p{
 .video-wrap .slider{
     position: absolute;
     height:auto;
+		width:100%;
     bottom:30px;
     left:0;
     z-index:10;
